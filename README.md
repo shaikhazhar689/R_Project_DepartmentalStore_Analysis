@@ -1,10 +1,14 @@
 # About
-## Departmental Store Analysis
-Welcome to my R programming departmental store analysis project! As a data analyst, I have meticulously crafted this portfolio project, 
-utilizing various R libraries and packages, including ggplot2, dplyr, corrplot, and ggcorrplot. By employing these powerful tools, I have
-conducted extensive descriptive analysis, employing functions like filter, slicing, groupby, summarise, and mutate to generate new tables 
-and extract valuable insights. Additionally, I have created compelling visualizations such as column plots, line plots, histograms, 
-scatterplots, and circular plots, shedding light on essential aspects of the departmental store's performance during Covid19 Pandemic. 
+
+## Title: Departmental Store Analysis
+
+***Task***: The objective of this project is to provide a comprehensive analysis of a departmental store's performance during the Covid-19 pandemic, leveraging the capabilities of R programming and various libraries.
+
+**Approach**:
+
+***Data Preparation***: The project begins with meticulous data preparation, including filtering, slicing, and reformatting the data.
+Descriptive Analysis: In-depth descriptive analysis is carried out using functions like groupby, summarise, and mutate to derive meaningful insights.
+Data Visualization: Various visualization techniques such as column plots, line plots, histograms, scatterplots, and circular plots are employed to provide a clear and engaging representation of the data.
 
 #### Report Glimpses..
 
